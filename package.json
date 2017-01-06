@@ -1,0 +1,9 @@
+{
+  "name": "vizia-tool",
+  "version": "0.0.0",
+  "description": "tool for vizia",
+  "main": "index.js",
+  "repository": "git@github.com:vizia/vizia-tool.git",
+  "author": "Fabien O'Carroll <fabien@allou.is>",
+  "license": "MIT"
+}
